@@ -129,4 +129,6 @@ def print_linked_list(linked_list):
     return items
 
 # 최종 결괏값 프린트
+print(print_linked_list(list1))
+print(print_linked_list(list2))
 print(print_linked_list(mergedList))
